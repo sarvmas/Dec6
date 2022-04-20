@@ -1,0 +1,3 @@
+FROM centos
+MAINTAINER Akshiv
+RUN yum install wget vim -y
